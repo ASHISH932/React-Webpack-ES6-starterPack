@@ -7,7 +7,7 @@ Yarn was used in the project
 
 The project folder structure 
 - dist
-    -> index.html
+    -> index.html  
     -> main.js (Created automatically by webpack)
 - src 
     -> app.js (Starting point of the project)

@@ -6,12 +6,12 @@ It uses babel to compile react and ES6 syntax
 Yarn was used in the project
 
 The project folder structure 
-- dist
+- dist  
     -> index.html  
     -> main.js (Created automatically by webpack)
-- src 
+- src  
     -> app.js (Starting point of the project)
-- server
+- server  
     -> server.js (node server to host file) 
 - package.json
 - webpack.config.js (Webpack config file)
